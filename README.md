@@ -1,8 +1,10 @@
 # _**Domain Modeling**_
 
-## [Photogram Database Exercise](https://docs.google.com/spreadsheets/d/104IDD206ubqloGZbjtSUAYwfOsFpiC6bQ3C11Re57M4/edit#gid=0)
+## Photogram Database Exercise
 
-[Here's the app that you are pretending to be while you are answering the questions in the spreadsheet above.](http://photogram-final-target.herokuapp.com/)
+[Here's the spreadsheet](https://docs.google.com/spreadsheets/d/104IDD206ubqloGZbjtSUAYwfOsFpiC6bQ3C11Re57M4/edit#gid=0) containing the questions to answer and the tables to answer them with.
+
+[Here's the app](http://photogram-final-target.herokuapp.com/) that you are pretending to be while you are answering the questions in the spreadsheet above.
 
 ## Very Best
 
